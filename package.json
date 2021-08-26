@@ -1,0 +1,23 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omnia-Kamal-66/NodeJsPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omnia-Kamal-66/NodeJsPractice/issues"
+  },
+  "homepage": "https://github.com/Omnia-Kamal-66/NodeJsPractice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
